@@ -256,6 +256,23 @@ button .fas {
 .success-message {
   background-color: #e8f4fc;
   color: #003c71;
+  display: block;
+}
+
+#celebration {
+  font-weight: 700;
+  font-size: 18px;
+  padding: 16px 20px;
+  border-radius: 8px;
+  text-align: center;
+  margin-bottom: 15px;
+  display: none;
+}
+
+.celebration-message {
+  background-color: #fff4d6;
+  color: #7a5b00;
+  display: block;
 }
 
 /* Counter */
